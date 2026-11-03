@@ -80,8 +80,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Ckotlin%2Cpython%2Clinux%2Candroidstudio%2Cdocker%2Ccloudflare%2Cpytorch%2Cgithubactions&theme=dark&perline=11">
-    <img alt="Learning" src="https://skillicons.dev/icons?i=c,cpp,rust,kotlin,python,linux,androidstudio,docker,cloudflare,pytorch,githubactions&theme=light&perline=11">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Crust%2Cjs%2Cts%2Ckotlin%2Cpython%2Clinux%2Candroidstudio%2Cdocker%2Ccloudflare%2Cpytorch%2Cgithubactions&theme=dark&perline=13">
+    <img alt="Learning" src="https://skillicons.dev/icons?i=c,cpp,rust,js,ts,kotlin,python,linux,androidstudio,docker,cloudflare,pytorch,githubactions&theme=light&perline=13">
   </picture>
 </div>
 
