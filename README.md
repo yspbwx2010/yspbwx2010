@@ -12,7 +12,7 @@
 
 ## 🌸 碎碎念 | つぶやき
 
-**Ciallo～(∠・ω< )⌒★** <img src="img/character.png" alt="Tsukiko" width="220" align="right" hspace="16">
+**Ciallo～(∠・ω< )⌒★** <img src="img/character.webp" alt="Tsukiko" width="220" align="right" hspace="16">
 
 这里是 **Cloud_Yun**  
 叫我 **云** 就可以啦～
